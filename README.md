@@ -14,6 +14,9 @@
 
 - ⚡ Fun fact **"I am a quick learner on a data journey, fueled by curiosity—when I’m not reading comics or automating my way around my lazy side."**
 
+<img src="https://miro.medium.com/v2/resize:fit:1078/1*hVmDd7kBxo2z2FmH8Auvlg.png" width="600" />
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/sonali-dharmraj-mishra" target="_blank">
@@ -110,7 +113,9 @@ Built an interactive dashboard to analyze daily sales, top-performing pizzas, an
 <details>
 <summary>📊 <strong>Google Play Store App Analysis (Power BI)</strong></summary>
 
-![Play Store Power BI](https://bit.ly/3Rtj8H0)
+<a href="https://bit.ly/3Rtj8H0" target="_blank">
+ <img src="https://bit.ly/3Rtj8H0" alt="Google Play Store App Analysis" width="100%" />
+</a>
 
 **Tool Used:** Power BI  
 Visualized KPIs like app ratings, installs, categories, and pricing across thousands of Play Store apps.
@@ -138,7 +143,8 @@ Analyzed employee data including attrition, job satisfaction, salary trends, and
 🔗 [View Project](https://github.com/Sonalimishra-777/HR_Management_Insights_Power-BI)
 
 </details>
-<hr>
+
+---
 
 📊 GitHub Stats
 
