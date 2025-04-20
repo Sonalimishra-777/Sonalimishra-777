@@ -126,7 +126,9 @@ Visualized KPIs like app ratings, installs, categories, and pricing across thous
 <details>
 <summary>👥 <strong>HR Management Insights (Power BI)</strong></summary>
 
-![HR Power BI](https://bit.ly/4jdajND)
+<a href="https://bit.ly/4jdajND" target="_blank">
+  <img src="https://bit.ly/4jdajND" alt="HR Power BI Dashboard" width="100%" />
+</a>
 
 **Tool Used:** Power BI  
 Analyzed employee data including attrition, job satisfaction, salary trends, and department-wise metrics.
@@ -136,6 +138,16 @@ Analyzed employee data including attrition, job satisfaction, salary trends, and
 🔗 [View Project](https://github.com/Sonalimishra-777/HR_Management_Insights_Power-BI)
 
 </details>
+<hr>
+
+📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sonalimishra-777&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
+
+
+---
+*“Data is the new oil, and I love refining it into insight.”*
+
 
 
 
