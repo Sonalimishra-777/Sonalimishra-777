@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sonali Mishra</h1>
 <h3 align="center">🎯 Aspiring Data Analyst | Passionate About Turning Data into Actionable Insights</h3>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/YourUsername/RepoName/main/your-gif.gif" width="500"/>
-</p>
-
 - 🔭 I’m working on various **Data Analysis and Data Science projects**
 
 - 👯 I’m looking to collaborate on **Data Analytics projects**
