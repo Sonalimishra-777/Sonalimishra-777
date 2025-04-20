@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sonali Mishra</h1>
 <h3 align="center">🎯 Aspiring Data Analyst | Passionate About Turning Data into Actionable Insights</h3>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/YourUsername/RepoName/main/your-gif.gif" width="500"/>
+</p>
 
 - 🔭 I’m working on various **Data Analysis and Data Science projects**
 
@@ -14,7 +17,7 @@
 
 - ⚡ Fun fact **"I am a quick learner on a data journey, fueled by curiosity—when I’m not reading comics or automating my way around my lazy side."**
 
-<img src="https://miro.medium.com/v2/resize:fit:1078/1*hVmDd7kBxo2z2FmH8Auvlg.png" width="600" />
+<img src="https://github.com/Sonalimishra-777/Sonalimishra-777/blob/main/Github.png?raw=true" width="1000" />
 
 
 <h3 align="left">Connect with me:</h3>
@@ -152,7 +155,7 @@ Analyzed employee data including attrition, job satisfaction, salary trends, and
 
 
 ---
-*“Data is the new oil, and I love refining it into insight.”*
+<p align="center"> “Data is the new oil, and I love refining it into insight.” </p>
 
 
 
