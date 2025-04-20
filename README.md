@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sonali Mishra</h1>
-<h3 align="center">A Aspiring Data Analyst from India</h3>
+<h3 align="center">🎯 Aspiring Data Analyst | Passionate About Turning Data into Actionable Insights</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sonalimishra-777&label=Profile%20views&color=0e75b6&style=flat" alt="sonalimishra-777" /> </p>
 
 - 🔭 I’m working on various **Data Analysis and Data Science projects**
 
@@ -73,5 +72,70 @@
 </p>
 
 </p>
+📊 Featured Projects
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sonalimishra-777&show_icons=true&locale=en&layout=compact" alt="sonalimishra-777" /></p>
+<details>
+<summary>🧠 <strong>Customer Churn Prediction (Excel)</strong></summary>
+
+![Churn Excel Preview](https://github.com/Sonalimishra-777/Telecom_Customer_Churn_Data_Analysis_MS-Excel/blob/main/Customer_churn.png?raw=true)
+
+**Tool Used:** MS Excel  
+Analyzed telecom customer data to understand churn behavior using Pivot Tables, Charts, and Slicers.  
+Included KPI summary, churn reasons, and trend analysis.
+
+📌 **Goal:** Empower business stakeholders with clear visual insights into customer retention.
+
+🔗 [View Project](https://github.com/Sonalimishra-777/Telecom_Customer_Churn_Data_Analysis_MS-Excel)
+
+</details>
+
+---
+
+<details>
+<summary>📈 <strong>Pizza Sales Dashboard (Excel)</strong></summary>
+
+![Pizza Sales Excel Preview](https://github.com/Sonalimishra-777/Pizza_Sales_Analysis_Excel/blob/main/Pizza_Dashboard.png?raw=true)
+
+**Tool Used:** MS Excel  
+Built an interactive dashboard to analyze daily sales, top-performing pizzas, and order trends.
+
+📌 **Highlight:** Slicers, charts, and clean UI for dynamic exploration.
+
+🔗 [View Project](https://github.com/Sonalimishra-777/Pizza_Sales_Analysis_Excel)
+
+</details>
+
+---
+
+<details>
+<summary>📊 <strong>Google Play Store App Analysis (Power BI)</strong></summary>
+
+![Play Store Power BI](https://bit.ly/3Rtj8H0)
+
+**Tool Used:** Power BI  
+Visualized KPIs like app ratings, installs, categories, and pricing across thousands of Play Store apps.
+
+📌 **Outcome:** Identified trends and gaps to assist app developers and marketers.
+
+🔗 [View Project](https://github.com/Sonalimishra-777/Google_Play_Store_Apps_Analysis_Power-BI)
+
+</details>
+
+---
+
+<details>
+<summary>👥 <strong>HR Management Insights (Power BI)</strong></summary>
+
+![HR Power BI](https://bit.ly/4jdajND)
+
+**Tool Used:** Power BI  
+Analyzed employee data including attrition, job satisfaction, salary trends, and department-wise metrics.
+
+📌 **Insight:** Helped HR make data-driven decisions regarding employee retention and hiring.
+
+🔗 [View Project](https://github.com/Sonalimishra-777/HR_Management_Insights_Power-BI)
+
+</details>
+
+
+
