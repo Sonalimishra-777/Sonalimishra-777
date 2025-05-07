@@ -128,7 +128,7 @@ Visualized KPIs like app ratings, installs, categories, and pricing across thous
 ---
 
 <details>
-<summary>👥 <strong>HR Management Insights (Power BI) (Tableau)</strong></summary>
+<summary>👥 <strong>HR Management Insights (Power BI) (Tableau) (SQL)</strong></summary>
 
 <a href="https://bit.ly/4jdajND" target="_blank">
   <img src="https://bit.ly/4jdajND" alt="HR Power BI Dashboard" width="100%" />
